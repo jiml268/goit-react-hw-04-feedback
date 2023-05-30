@@ -1,0 +1,25 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgb(83, 83, 83);
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 2rem;
+  width: 180px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: lightgreen;
+  border: 1px solid lightgreen;
+}
+
+.btn:active {
+  border-color: lightskyblue;
+  background: lightskyblue;
+}

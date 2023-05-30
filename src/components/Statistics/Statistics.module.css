@@ -1,0 +1,18 @@
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.feedback__List {
+  list-style: none;
+  margin: 0;
+}
+
+.feedbackList__Item {
+  
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0;
+  padding-bottom: 0.4rem;
+}
